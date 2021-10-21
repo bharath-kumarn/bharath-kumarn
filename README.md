@@ -98,12 +98,12 @@ Here are some ideas to get you started:
 <br>
 
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/bharath-kumarn) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Bharath_Kumar_N)
 <br>
 ---
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2021 Bharath, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
-https://www.creative-tim.com
+https://www.linkedin.com/in/bharath-kumarn/
 </p>
 
 
