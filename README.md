@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 <a href="https://app.daily.dev/bharathreco"><img src="https://api.daily.dev/devcards/1201544774a84d808bfee48f5ac342bb.png?r=28k" width="400" alt="Bharath Kumar N's Dev Card"/></a>
+<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
